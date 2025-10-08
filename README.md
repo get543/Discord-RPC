@@ -12,3 +12,7 @@ Create a custom Discord RPC
 ```env
 clientId = "1212523452345"
 ```
+
+4. Go to "Rich Presence" menu
+You can add image in the "Rich Presence Assets" section, and remember the **NAME** of the image
+and you use the same name in the dev portal as in the `stats.js` file.
